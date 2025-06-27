@@ -28,8 +28,8 @@ export const contactData = {
       {
         icon: "Phone",
         title: "Phone",
-        value: "+91 98765 43210",
-        action: "tel:+919876543210"
+        value: "+91 97517 40507",
+        action: "tel:+919751740507"
       },
       {
         icon: "Mail",
@@ -40,8 +40,8 @@ export const contactData = {
       {
         icon: "MessageCircle",
         title: "WhatsApp",
-        value: "+91 98765 43210",
-        action: "https://wa.me/919876543210"
+        value: "+91 97517 40507",
+        action: "https://wa.me/919751740507"
       },
       {
         icon: "MapPin",
@@ -64,6 +64,6 @@ export const contactData = {
     title: "Need Help Choosing a Vehicle?",
     subtitle: "Our experts are here to help you find the perfect vehicle for your needs.",
     buttonText: "Call Now",
-    phone: "+91 98765 43210"
+    phone: "+91 97517 40507"
   }
 };

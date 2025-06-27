@@ -97,7 +97,7 @@ export const termsData = {
   contact: {
     title: "Questions About Terms?",
     description: "If you have any questions about these terms and conditions, please contact us:",
-    phone: "+91 98765 43210",
+    phone: "+91 97517 40507",
     email: "legal@sukumarlogistics.com",
     address: "123 Industrial Area, Sector 15, New Delhi - 110001"
   }

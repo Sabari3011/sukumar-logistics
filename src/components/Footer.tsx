@@ -54,7 +54,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-3">
               <li className="flex items-center space-x-2">
                 <Phone className="h-4 w-4 text-blue-400" />
-                <span className="text-gray-300 text-sm">+91 98765 43210</span>
+                <span className="text-gray-300 text-sm">+91 97517 40507</span>
               </li>
               <li className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-blue-400" />
@@ -87,9 +87,9 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center">
-          <p className="text-gray-400 text-sm">
-            © 2024 Sukumar Logistics. All rights reserved. Professional vehicle rental services.
-          </p>
+            <p className="text-gray-400 text-sm">
+            © {new Date().getFullYear()} Sukumar Logistics. All rights reserved.
+            </p>
         </div>
       </div>
     </footer>

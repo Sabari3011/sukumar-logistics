@@ -98,9 +98,9 @@ export const homeData = {
     ]
   },
   contact: {
-    phone: "+91 98765 43210",
+    phone: "+91 97517 40507",
     email: "info@sukumarlogistics.com",
-    whatsapp: "+91 98765 43210",
+    whatsapp: "+91 97517 40507",
     address: "123 Industrial Area, Sector 15, New Delhi - 110001"
   }
 };
